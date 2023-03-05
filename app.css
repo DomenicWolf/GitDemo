@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(53, 2, 58);
+    background-color: rgb(20, 208, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@ h1 {
    
     /*align-items: center;
     text-align: center;*/
-    font-size: 100px;
+    font-size: 16rem;
     
 }
 
